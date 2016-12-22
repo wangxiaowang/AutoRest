@@ -1,0 +1,7 @@
+host="127.0.0.1"
+port="3307"
+user="root"
+password="123456"
+db="gotest"
+jsoncfg=["{\"table_name\":\"person\",\"name\":\"string\",\"age\":\"string\" ,\"address\":\"string\"  ,\"sex\":\"string\"  ,\"tel\":\"string\" }","{\"table_name\":\"work\",\"worktype\":\"string\",\"work_content\":\"string\"}"]
+retent=false
